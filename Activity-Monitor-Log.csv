@@ -1,0 +1,7 @@
+Variable / Field Name,Section Header,Field Type,Field Label,Choices or Calculations
+am_date_dispatch,,text,Date dispatched to participant,
+am_serial,,text,Serial number,
+am_date_received,,text,Date received from participant,
+am_wear_location,,radio,Wear location,"1, Wrist ; 2, Upper Arm"
+am_strap,,radio,Strap type,"1, Plastic ; 2, Velcro"
+am_date_downloaded,,text,Date of data download completion,
