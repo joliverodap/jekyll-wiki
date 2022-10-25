@@ -1,0 +1,34 @@
+# International Severe Acute Respiratory Infection Consortium - Comprehensive Clinical Characterisation Collaboration (ISARIC4C) Study**
+
+Website: https://isaric4c.net/ <br />
+Data Dictionary Codebook: [Click Here](/isaric4c/wiki/tree/master/ISARIC/CCP_REDCap_ISARIC_data_dictionary_codebook.pdf)
+
+The ISARIC study collects a wide range of information from patients either hospitalised from or with COVID-19 during the pandemic.
+
+For a more detailed look at how the data is cleaned, all R cleaning scripts are located in the following public repository:
+https://github.com/SurgicalInformatics/cocin_ccp#covid19-clinical-information-network-co-cin--isaric-4c-data-pull-and-preparation
+
+The above repository also contains information on the structural metadata, for example, explanations of the various forms and events that compose the data are found here. Users of this wiki are encouraged to read through this additional repository to gain further insight into the data.
+
+**Research studies**
+
+Consult our own Metadata Catalogue for either of the following tables.
+
+The cleaned ISARIC datasets are provided by SurgicalInformatics, see link below.
+
+  *  [[ISARIC Research Clean table|isaric_resstud_clean_table]] (the main data table)
+  *  [[ISARIC Research Oneline table|isaric_resstud_oneline_table]] (amalgamation of topline and outcome)
+  *  [[ISARIC Research Outcome table|isaric_resstud_outcome_table]] (one of the last rows per-patient)
+  *  [[ISARIC Research Surv table|isaric_resstud_surv_table]] 
+  *  [[ISARIC Research Topline table|isaric_resstud_topline_table]] (the first row per-patient)
+  *  [[ISARIC Research Treatment table|isaric_resstud_treatment_table]] 
+
+Web references:
+
+*  [ISARIC4C (Comprehensive Clinical Characterisation Collaboration)](https://isaric4c.net/)
+
+*  [Outbreak data analysis platform (ODAP)](https://isaric4c.net/analysis-platform/)
+
+*  [ISARIC cleaning by SurgicalInformatics team](https://github.com/SurgicalInformatics/cocin_ccp)
+
+*  [Further study-specific ISARIC cleaning by SurgicalInformatics team](https://github.com/SurgicalInformatics/cocin_cleaning)
